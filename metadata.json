@@ -1,0 +1,8 @@
+{
+  "name": "Z-Timekeeper",
+  "description": "Ứng dụng chấm công nhân viên phong cách Zalo Mini App, tích hợp Geolocation, chụp ảnh selfie và AI báo cáo.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
